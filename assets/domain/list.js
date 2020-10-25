@@ -13,6 +13,6 @@ document.write('\
 \<li style="display: none;"><a href="url.html?N=FilmStreamingIT&U=https://filmstreaming-it.life&D=09/10/2020">FilmStreamingIT</a></li>\
 \<li style="display: none;"><a href="url.html?N=FilmSenzaLimiti&U=https://filmsenzalimiti01.casa&D=09/10/2020">FilmSenzaLimiti</a></li>\
 \<li style="display: none;"><a href="url.html?N=Film4k&U=https://film4k.best&D=09/10/2020">Film4k</a></li>\
-\<li style="display: none;"><a href="url.html?N=IlGenioDelloStreaming&U=https://Ilgeniodellostreaming.rs&D=09/10/2020">IlGenioDelloStreaming</a></li>\
+\<li style="display: none;"><a href="url.html?N=IlGenioDelloStreaming&U=https://Ilgeniodellostreaming.lol&D=25/10/2020">IlGenioDelloStreaming</a></li>\
 \<li style="display: none;"><a href="url.html?N=GuardaSerie&U=https://guardaserie.cam&D=09/10/2020">GuardaSerie</a></li>\
 ');
