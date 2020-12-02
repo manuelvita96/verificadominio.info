@@ -4,7 +4,7 @@ document.write('\
 \<li style="display: none;"><a href="url.html?N=Facebook&U=https://www.facebook.com&D=09/10/2020">Facebook</a></li>\
 \<li style="display: none;"><a href="url.html?N=Instagram&U=https://www.instagram.com&D=09/10/2020">Instagram</a></li>\
 \<li style="display: none;"><a href="url.html?N=CB01&U=https://cb01.wales&D=13/11/2020">CB01</a></li>\
-\<li style="display: none;"><a href="url.html?N=EuroStreaming&U=https://eurostreaming.bid/&D=13/11/2020">EuroStreaming</a></li>\
+\<li style="display: none;"><a href="url.html?N=EuroStreaming&U=https://eurostreaming.wiki/&D=03/12/2020">EuroStreaming</a></li>\
 \<li style="display: none;"><a href="url.html?N=Netflix&U=https://netflix.com/&D=09/10/2020">Netflix</a></li>\
 \<li style="display: none;"><a href="url.html?N=CinemaGratis&U=https://cinemagratis.world&D=09/10/2020">CinemaGratis</a></li>\
 \<li style="display: none;"><a href="url.html?N=CinemaHD&U=https://cinemahd.guru&D=09/10/2020">CinemaHD</a></li>\
